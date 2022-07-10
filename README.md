@@ -1,1 +1,1 @@
-# Test readme..
+# Some important linux and widows settings..
